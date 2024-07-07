@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+    <test name="Assessment">
+        <classes>
+            <class name="com.sumerge.Task1_2"/>
+            <class name="com.sumerge.Task3"/>
+            <class name="com.sumerge.Task4"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
